@@ -213,13 +213,10 @@ body {
 
 }
 
-#servicos .card:hover svg{
-    fill: var(--VerdeRota)
-}
 
-#servicos .card:hover h3{
-    color: var(--VerdeRota);
-}
+
+
+
 
 .card img {
     width: 100%;
